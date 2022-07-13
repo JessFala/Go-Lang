@@ -17,5 +17,6 @@ https://pkg.go.dev/?utm_source=godoc
 
 -Key Words:
 https://go.dev/ref/spec#Keywords
+
 -Sobre 'fmt': 
 https://pkg.go.dev/fmt
